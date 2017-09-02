@@ -39,5 +39,6 @@ $(function() {
     removeColumn: function() {
         this.$element.remove();
     }
-};
-})
+    };
+    
+});
